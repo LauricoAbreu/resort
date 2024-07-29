@@ -1,0 +1,43 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.navbar{
+    background-color: #416ce1;
+}
+
+.nav .nav-link.active{
+    background-color: #fff;
+    color: #677fc2;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.section-title{
+    font-family: Pacifico, cursive;
+}
+
+.section-title span{
+    color: #677fc2;
+}
+
+#sobre-o-resort{
+    background-color: #bcc3d6;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+#fale-conosco button{
+    background-color: #677fc2;
+}
